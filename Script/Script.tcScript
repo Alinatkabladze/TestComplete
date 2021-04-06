@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Orders_JavaScript" key="{9FAB731C-0B52-43F6-9A01-9CA081C327C7}" path="Orders_JavaScript.js" />
+		<child name="ReadExcel" key="{E6173F08-1DE7-483F-B8AD-574167338BFA}" path="ReadExcel.js" />
+		<child name="common" key="{F7B1AD3F-1D49-49B4-A409-9A1F87EE6A26}" path="common.js" />
+		<child name="ExecuteScript" key="{49082AC0-B310-4A84-A6F4-C15DA6AE6DA6}" path="ExecuteScript.js" />
+		<child name="Variables" key="{33565F60-8ECF-43D7-9CB7-FAE35A6BF622}" path="Variables.js" />
+		<child name="CallAnotherUnit" key="{6FC01AD7-3B7B-4FA2-B52A-09A2466CC37B}" path="CallAnotherUnit.js" />
+	</children>
+</Root>
